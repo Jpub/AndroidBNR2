@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">CriminalIntent</string>
+    <string name="crime_title_hint">범죄의 제목을 입력하세요.</string>
+    <string name="crime_title_label">제목</string>
+    <string name="crime_details_label">상세 내역</string>
+    <string name="crime_solved_label">해결됨</string>
+    <string name="date_picker_title">범죄 발생일자:</string>
+    <string name="new_crime">새로운 범죄</string>
+    <string name="show_subtitle">서브타이틀 보기</string>
+    <string name="hide_subtitle">서브타이틀 감추기</string>
+    <string name="subtitle_format">%1$s 건</string>
+    <string name="crime_suspect_text">용의자 선택</string>
+    <string name="crime_report_text">범죄 보고서 전송</string>
+    <string name="crime_report">%1$s!
+    이 범죄가 발견된 날짜는 %2$s. %3$s, 그리고 %4$s</string>
+    <string name="crime_report_solved">이 건은 해결되었음</string>
+    <string name="crime_report_unsolved">이 건은 미해결임</string>
+    <string name="crime_report_no_suspect">용의자가 없음</string>
+    <string name="crime_report_suspect">용의자는 %s</string>
+    <string name="crime_report_subject">CriminalIntent 범죄 보고서</string>
+    <string name="send_report">범죄 보고서 전송</string>
+
+</resources>

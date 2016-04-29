@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="next_button">다음</string>
+    <string name="correct_toast">정답!</string>
+    <string name="incorrect_toast">틀림!</string>
+    <string name="question_oceans">태평양은 대서양보다 더 크다.</string>
+    <string name="question_mideast">수에즈 운하는 홍해와 인도양을 연결한다.</string>
+    <string name="question_africa">나일강은 이집트에서 시작된다.</string>
+    <string name="question_americas">아마존강은 아메리카 대륙에서 가장 긴 강이다.</string>
+    <string name="question_asia">바이칼 호수는 세계에서 가장 오래되고
+        가장 깊은 담수호이다.</string>
+    <string name="warning_text">정말로 답을 보겠습니까?</string>
+    <string name="show_answer_button">정답 보기</string>
+    <string name="cheat_button">커닝하기!</string>
+    <string name="judgment_toast">커닝은 나쁜짓이죠.</string>
+
+</resources>

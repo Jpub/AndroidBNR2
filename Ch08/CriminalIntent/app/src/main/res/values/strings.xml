@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CriminalIntent</string>
+    <string name="crime_title_hint">범죄의 제목을 입력하세요.</string>
+    <string name="crime_title_label">제목</string>
+    <string name="crime_details_label">상세 내역</string>
+    <string name="crime_solved_label">해결됨</string>
+</resources>

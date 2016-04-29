@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+
+    <string name="question_text">
+        콘스탄티노플은 터키의 가장 큰 도시이다.
+    </string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="correct_toast">정답!</string>
+    <string name="incorrect_toast">틀림!</string>
+</resources>
