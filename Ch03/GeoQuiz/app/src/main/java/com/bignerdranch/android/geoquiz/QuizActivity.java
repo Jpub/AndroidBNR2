@@ -85,7 +85,7 @@ public class QuizActivity extends AppCompatActivity {
         updateQuestion();
     }
 
-    @Override
+   @Override
     public void onSaveInstanceState(Bundle savedInstanceState) {
         super.onSaveInstanceState(savedInstanceState);
         Log.i(TAG, "onSaveInstanceState");
