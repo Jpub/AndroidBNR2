@@ -11,9 +11,9 @@
   
   
   
-# 핵심만 골라 배우는 안드로이드 스튜디오 & 프로그래밍
+# 실무에 바로 적용하는 안드로이드 프로그래밍(제2판)
   
- ![핵심만 골라 배우는 안드로이드 스튜디오 & 프로그래밍 표지](http://image.yes24.com/momo/TopCate816/MidCate008/81575949.jpg)
+ ![실무에 바로 적용하는 안드로이드 프로그래밍(제2판) 표지](http://image.yes24.com/momo/TopCate846/MidCate009/84588128.jpg)
   
 **출판사** 제이펍  
 **원출판사** Big Nerd Ranch Guides  
